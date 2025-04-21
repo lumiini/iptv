@@ -25,7 +25,5 @@ https://live-fi.tvkaista.net/hero/live.m3u8
 https://live-fi.tvkaista.net/frii/live.m3u8
 #EXTINF:-1 tvg-id="Star.fi" tvg-logo="https://i.imgur.com/c4G6eib.png" group-title="Entertainment",Star (720p)
 https://live-fi.tvkaista.net/star/live.m3u8
-#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Music",MTV Hits Europe (720p)
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Finland) (720p)
 https://live-fi.tvkaista.net/national-geographic/live.m3u8
