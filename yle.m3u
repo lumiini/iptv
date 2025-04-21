@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="YleTV1.fi" tvg-logo="https://i.imgur.com/Xj0B2yX.png" group-title="General",Yle TV1
+https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTV2.fi" tvg-logo="https://i.imgur.com/Q1MNxmn.png" group-title="General",Yle TV2
+https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV3.fi" tvg-logo="https://i.imgur.com/C5rQbBM.png" group-title="General",MTV3 (720p)
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-id="Nelonen.fi" tvg-logo="https://i.imgur.com/BFbCyfY.png" group-title="General",Nelonen (720p)
+https://live-fi.tvkaista.net/nelonen/live.m3u8
+#EXTINF:-1 tvg-id="TeemaFem.fi" tvg-logo="https://i.imgur.com/Jx5kK7e.png" group-title="General",Teema Fem (720p)
+https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
+#EXTINF:-1 tvg-id="Sub.fi" tvg-logo="https://i.imgur.com/V45b2XT.png" group-title="General",Sub (720p)
+https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:-1 tvg-id="TVT5.fi" tvg-logo="https://i.imgur.com/VGLc1ca.png" group-title="General",TVT5 (720p)
+https://live-fi.tvkaista.net/tvt5/live.m3u8
+#EXTINF:-1 tvg-id="Liv.fi" tvg-logo="https://i.imgur.com/k6NsXBj.png" group-title="General",Liv (720p)
+https://live-fi.tvkaista.net/liv/live.m3u8
+#EXTINF:-1 tvg-id="Kutonen.fi" tvg-logo="https://i.imgur.com/WQeY93V.png" group-title="General",Kutonen (720p)
+https://live-fi.tvkaista.net/kutonen/live.m3u8
+#EXTINF:-1 tvg-id="MTVAva.fi" tvg-logo="https://i.imgur.com/WxNCiAk.png" group-title="Entertainment",MTV Ava (720p)
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:-1 tvg-id="Hero.fi" tvg-logo="https://i.imgur.com/jUuE5du.png" group-title="Entertainment",Hero (720p)
+https://live-fi.tvkaista.net/hero/live.m3u8
+#EXTINF:-1 tvg-id="Frii.fi" tvg-logo="https://i.imgur.com/h3BAOAC.png" group-title="Entertainment",Frii (720p)
+https://live-fi.tvkaista.net/frii/live.m3u8
+#EXTINF:-1 tvg-id="Star.fi" tvg-logo="https://i.imgur.com/c4G6eib.png" group-title="Entertainment",Star (720p)
+https://live-fi.tvkaista.net/star/live.m3u8
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Music",MTV Hits Europe (720p)
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Finland) (720p)
+https://live-fi.tvkaista.net/national-geographic/live.m3u8
